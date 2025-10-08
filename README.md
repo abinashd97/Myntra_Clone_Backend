@@ -13,3 +13,5 @@ Order creation and tracking
 Product search and filter endpoints
 
 Admin dashboard endpoints for analytics and user management
+
+Technology used- Spring Boot
